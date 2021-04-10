@@ -1,0 +1,15 @@
+
+*.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+venv/bin/activate
+venv/bin/activate.csh
+venv/bin/activate.fish
+venv/bin/Activate.ps1
+venv/bin/python
+venv/bin/python3
+venv/bin/python3.8
+venv/lib64
+venv/pyvenv.cfg
