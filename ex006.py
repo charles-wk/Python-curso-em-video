@@ -1,3 +1,4 @@
+#Imprimindo o dobro, o triplo e a raiz quadrada de um valor
 numero = int(input('Digite um valor '))
 print('O dobro de {} é: {}'.format(numero, numero*2))
 print('O triplo de {} é: {}'.format(numero, numero*3))

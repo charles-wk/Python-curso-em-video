@@ -1,3 +1,4 @@
+#Exibindo a tabuada de um número
 numero = int(input('Digite um número: '))
 print('{} x {} = {}'.format(numero, '1', numero*1))
 print('{} x {} = {}'.format(numero, '2', numero*2))
